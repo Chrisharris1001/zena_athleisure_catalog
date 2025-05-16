@@ -6,7 +6,7 @@
 
 * **Interactive Web Interface**: Navigate through a sleek and responsive UI powered by Streamlit.
 * **Visual Catalog**: Browse a diverse range of sweatsuit images in multiple colors, including burgundy, charcoal grey, forest green, navy blue, orange, pink, purple, red, royal blue, and yellow.
-* **Lightweight Deployment**: Easily deploy the application locally or on cloud platforms with minimal setup.([zenawebcatalog.streamlit.app][1])
+* **Lightweight Deployment**: Easily deploy the application locally or on cloud platforms with minimal setup.
 
 ## Getting Started
 
